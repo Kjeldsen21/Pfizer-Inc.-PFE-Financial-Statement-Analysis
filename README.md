@@ -41,7 +41,6 @@ The project weighed 30% of the final grade. Received an A+.
 - Cash flow modelling across operating, investing & financing activities
 - Working capital analysis (Cash Conversion Cycle)
 - Leverage analysis on DOL, DFL, DCL
-- ESG research & sustainable finance (green bond feasibility)
 
 
 ## Data Source
