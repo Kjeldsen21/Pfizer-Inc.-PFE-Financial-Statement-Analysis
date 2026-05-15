@@ -45,7 +45,7 @@ The project weighed 30% of the final grade. Received an A+.
 
 ## Data Source
 
-Pfizer Inc. Form 10-K — Fiscal Year 2022
+Pfizer Inc. Form 10-K 2022
 [AnnualReports.com](https://www.annualreports.com/HostedData/AnnualReportArchive/p/NYSE_PFE_2022.pdf)
 
 
