@@ -1,7 +1,7 @@
 # Pfizer Inc. (PFE) Financial Statement Analysis
 ## Description
 
-An academic project featuring a financial analysis of Pfizer Inc. built from the company's 2022 SEC 10-K filings. It includes a 6-sheet Excel model covering ratios, leverage, cash flow, and working capital.
+An academic project featuring a financial analysis of Pfizer Inc. built from the company's 2022 SEC 10-K filings. Raw GAAP financials extracted, structured, and analysed across six worksheets covering cash flow,leverage ratios, and working capital efficiency.
  
 The project weighed 30% of the final grade. Received an A+.
 
