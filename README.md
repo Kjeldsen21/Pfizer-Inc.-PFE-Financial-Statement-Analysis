@@ -29,7 +29,7 @@ The project weighed 30% of the final grade. Received an A+.
 | Debt-to-Equity | 0.475 | 0.347 | ▼ Deleveraging |
 | Cash Conversion Cycle | 81.7 days | 69.1 days | ▼ 12.6 days |
 | EPS | $3.92 | $5.59 | ▲ 42.6% |
-| DOL | — | 1.73x | Strong operating leverage |
+| DOL | - | 1.73x | Strong operating leverage |
 
 
 ## Skills Demonstrated
@@ -45,7 +45,7 @@ The project weighed 30% of the final grade. Received an A+.
 
 ## Data Source
 
-Pfizer Inc. Form 10-K — Fiscal Years 2020, 2021, 2022
+Pfizer Inc. Form 10-K — Fiscal Year 2022
 [AnnualReports.com](https://www.annualreports.com/HostedData/AnnualReportArchive/p/NYSE_PFE_2022.pdf)
 
 
